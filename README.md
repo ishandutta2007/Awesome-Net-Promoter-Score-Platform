@@ -48,125 +48,28 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-* **[Delighted](https://delighted.com/)**
-
-  Customer-feedback platform focused on NPS, CSAT, CES and other experience surveys across email, web and digital touchpoints.
-
-
-
-* **[Promoter.io](https://www.promoter.io/)**
-
-  Customer-feedback and NPS platform designed to automate survey collection, customer segmentation and follow-up workflows.
-
-
-
-* **[AskNicely](https://www.asknicely.com/)**
-
-  Customer experience platform centered around continuous NPS measurement, feedback collection and employee action workflows.
-
-
-
-* **[Retently](https://www.retently.com/)**
-
-  Customer-feedback platform specializing in NPS, CSAT and CES surveys with segmentation, automation and analytics.
-
-
-
-* **[Survicate](https://survicate.com/)**
-
-  Customer-insights platform supporting website, email, in-product and mobile surveys for NPS, customer satisfaction and product feedback.
-
-
-
-* **[Zonka Feedback](https://www.zonkafeedback.com/)**
-
-  Customer-feedback and experience-management platform supporting NPS, CSAT, CES, offline surveys, workflow automation and analytics.
-
-
-
-* **[CustomerGauge](https://customergauge.com/)**
-
-  Enterprise customer-experience platform focused on B2B NPS programs, account feedback, revenue intelligence and customer success workflows.
-
-
-
-* **[Medallia](https://www.medallia.com/)**
-
-  Enterprise experience-management platform supporting large-scale customer, employee and digital experience measurement and analytics.
-
-
-
-* **[Qualtrics](https://www.qualtrics.com/)**
-
-  Major enterprise experience-management platform supporting customer experience, employee experience, market research and advanced survey analytics.
-
-
-
-* **[InMoment](https://inmoment.com/)**
-
-  Customer-experience platform supporting feedback collection, NPS programs, experience analytics and customer journey intelligence.
-
-
-
-* **[SurveyMonkey](https://www.surveymonkey.com/)**
-
-  Widely used online survey platform that supports NPS, customer satisfaction, market research and feedback collection.
-
-
-
-* **[Typeform](https://www.typeform.com/)**
-
-  Conversational form and survey platform commonly used for customer-feedback and NPS programs.
-
-
-
-* **[Jotform](https://www.jotform.com/)**
-
-  Online form and survey platform with templates and workflows suitable for customer-feedback collection.
-
-
-
-* **[Sogolytics](https://www.sogolytics.com/)**
-
-  Enterprise survey and feedback-management platform supporting customer experience and research programs.
-
-
-
-* **[Alchemer](https://www.alchemer.com/)**
-
-  Survey and feedback platform supporting customer insights, research, feedback automation and workflow integrations.
-
-
-
-* **[Nicereply](https://www.nicereply.com/)**
-
-  Customer-satisfaction platform focused on NPS, CSAT and CES surveys, particularly for customer-support teams.
-
-
-
-* **[ProProfs Survey Maker](https://www.proprofs.com/survey/)**
-
-  Online survey platform supporting NPS, CSAT and general customer-feedback programs.
-
-
-
-* **[Birdeye](https://birdeye.com/)**
-
-  Customer-experience and reputation-management platform supporting surveys, customer feedback and review collection.
-
-
-
-* **[Qualaroo](https://qualaroo.com/)**
-
-  Customer-feedback and user-research platform supporting website and product surveys.
-
-
-
-* **[Hotjar](https://www.hotjar.com/)**
-
-  Product-experience platform combining surveys, feedback widgets and behavioral analytics.
+| Platform | Description | Starting Price | Free Tier Limits |
+| :--- | :--- | :--- | :--- |
+| **[Delighted](https://delighted.com/)** | Customer-feedback platform focused on NPS, CSAT, CES and other experience surveys across email, web and digital touchpoints. | $224/month ($19/mo on legacy starter tiers) | Free forever plan limited to 25 responses/month & 1 user seat (or 7-day free trial on paid plans) |
+| **[Promoter.io](https://www.promoter.io/)** | Customer-feedback and NPS platform designed to automate survey collection, customer segmentation and follow-up workflows. | $100/month | Free forever plan limited to 25 survey responses/month; 14-day free trial on premium tiers |
+| **[AskNicely](https://www.asknicely.com/)** | Customer experience platform centered around continuous NPS measurement, feedback collection and employee action workflows. | $399/month (custom quote based on volume) | No free forever plan; 14-day free trial (sales-assisted onboarding with custom volume pilot) |
+| **[Retently](https://www.retently.com/)** | Customer-feedback platform specializing in NPS, CSAT and CES surveys with segmentation, automation and analytics. | $49/month (Ecommerce Basic) | No free forever plan; 14-day free trial with up to 1,000 surveys/campaign limits |
+| **[Survicate](https://survicate.com/)** | Customer-insights platform supporting website, email, in-product and mobile surveys for NPS, customer satisfaction and product feedback. | $56/month (billed annually) / $89/mo | Free forever plan limited to 25 responses/month, 3 user seats, and 30-day data retention |
+| **[Zonka Feedback](https://www.zonkafeedback.com/)** | Customer-feedback and experience-management platform supporting NPS, CSAT, CES, offline surveys, workflow automation and analytics. | $49/month (Starter tier) | No free forever plan; 14-day free trial with full access up to 100 survey responses |
+| **[CustomerGauge](https://customergauge.com/)** | Enterprise customer-experience platform focused on B2B NPS programs, account feedback, revenue intelligence and customer success workflows. | $2,000/month ($24,000 billed annually) | No free forever plan; 60 to 90-day structured proof-of-concept / pilot program |
+| **[Medallia](https://www.medallia.com/)** | Enterprise experience-management platform supporting large-scale customer, employee and digital experience measurement and analytics. | $833/month ($10,000/yr for Salesforce module / ~$20,000/yr core platform) | No free forever plan; 30-day enterprise sandbox / guided pilot with custom interaction limits |
+| **[Qualtrics](https://www.qualtrics.com/)** | Major enterprise experience-management platform supporting customer experience, employee experience, market research and advanced survey analytics. | $420/month ($5,040 billed annually for Strategic Research self-serve) | Free forever plan limited to 500 total responses per user, 3 active surveys, and 30 questions/survey |
+| **[InMoment](https://inmoment.com/)** | Customer-experience platform supporting feedback collection, NPS programs, experience analytics and customer journey intelligence. | $1,250/month ($15,000 billed annually + onboarding fees) | No free forever plan; 90-day Proof of Concept (POC) pilot program |
+| **[SurveyMonkey](https://www.surveymonkey.com/)** | Widely used online survey platform that supports NPS, customer satisfaction, market research and feedback collection. | $39/month (Advantage Annual) / $99 monthly | Free forever Basic plan limited to 10 questions per survey and 40 viewable responses per survey |
+| **[Typeform](https://www.typeform.com/)** | Conversational form and survey platform commonly used for customer-feedback and NPS programs. | $25/month (billed annually) / $29 monthly | Free forever plan limited to 10 responses/month and 10 questions per form |
+| **[Jotform](https://www.jotform.com/)** | Online form and survey platform with templates and workflows suitable for customer-feedback collection. | $34/month (Bronze plan, billed annually) | Free forever Starter plan limited to 5 forms, 100 monthly submissions, and 100MB storage |
+| **[Sogolytics](https://www.sogolytics.com/)** | Enterprise survey and feedback-management platform supporting customer experience and research programs. | $39/month (Pro plan) | Free forever Pro plan limited to 200 responses/year and 200 email invitations/year |
+| **[Alchemer](https://www.alchemer.com/)** | Survey and feedback platform supporting customer insights, research, feedback automation and workflow integrations. | $55/user/month (Collaborator plan) | No permanent free tier; 7-day free trial limited to 100,000 responses and full Professional features |
+| **[Nicereply](https://www.nicereply.com/)** | Customer-satisfaction platform focused on NPS, CSAT and CES surveys, particularly for customer-support teams. | $39/month (billed annually) / $49 monthly | No free forever plan; 14-day free trial limited to 100 survey responses across all agents |
+| **[ProProfs Survey Maker](https://www.proprofs.com/survey/)** | Online survey platform supporting NPS, CSAT and general customer-feedback programs. | $7/month (billed annually) / $19 monthly | Free forever plan limited to 10 responses/month and 1 active survey |
+| **[Birdeye](https://birdeye.com/)** | Customer-experience and reputation-management platform supporting surveys, customer feedback and review collection. | $299/location/month | No free forever plan; 14-day free trial limited to 1 business location |
+| **[Qualaroo](https://qualaroo.com/)** | Customer-feedback and user-research platform supporting website and product surveys. | $19.99/month (Essentials) / $499/mo Business | Free forever plan limited to 50 responses/month and 1 active nudge; 15-day trial on paid tiers |
+| **[Hotjar](https://www.hotjar.com/)** | Product-experience platform combining surveys, feedback widgets and behavioral analytics. | $49/month (Growth plan, billed annually) | Free forever Basic plan limited to 35 daily sessions, 20 monthly survey responses, and 3 active surveys |
 
 
 
